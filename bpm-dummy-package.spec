@@ -1,7 +1,7 @@
 %undefine _disable_source_fetch
 
 Name:           bpm-dummy-package
-Version:        1.2.3
+Version:        1.2.1
 Release:        1%{?dist}
 Summary:        Summary here
 URL:            url.to.official.website.org
