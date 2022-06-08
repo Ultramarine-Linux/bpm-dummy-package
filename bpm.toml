@@ -1,0 +1,10 @@
+[bpm-config]
+package_dir = "config"
+git_username = "builds-per-minute[bot]"
+github_token = "eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NTQwOTI5NzEsImV4cCI6MTY1NDA5MzYzMSwiaXNzIjoiMjA2NjUwIn0.smRHvzQMhZYJYHCHBvlpt8cFzScm9D9g_jYLVErVsaw-OuufPwiDUuTXJBvyuC0Hg5-JUTfExEvqzUbtCSjgOxicwKx8LXZiX2HeTiJyqlxm6XQd1fjKR53DyM8CAMUwWSWBNs_z26QKvc_aU2uaq-9_SaFYUTfXQu_CdhWeFG_ajKzbIPJGqNIIlIBZrJyDyMwd02gzmoBpqEiu5Rw1qG8zBzIpD6AsV_2jwLMVKVbU7aeBET_EXDLMvEj3K7-u7wiJd1iZRt5nKBgs_LNEtozWoVYPFwBEj1FiYIjOzurp_JNCR0FMJzX7qCgBgbdT8sm8l870v16PL6vyli8-dw"
+git_token = "ghs_Yd8D29o0NWPRkADBX4liCNZCh4Br7E0hF3q3"
+git_email = "106673627+builds-per-minute[bot]@users.noreply.github.com"
+bot_installation = "https://api.github.com/app/installations/26150114/access_tokens"
+git_dir = "git/"
+push_to_remote = true
+github_private_key = "/home/cappy/Downloads/builds-per-minute.2022-06-01.private-key.pem"
